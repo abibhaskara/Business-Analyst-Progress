@@ -74,3 +74,5 @@ Today, i continue to learn about logical function in chapter 3, im pretty famili
 ### 4/11/2026:
 I've have mastered the Excel DATEDIF function to calculate precise durations. This entails understanding its core syntax DATEDIF(Start_Date, End_Date, "Time_Code") and applying time codes (Y, M, D, YM) to extract specific timeframes. Furthermore, you successfully concatenated these numerical calculations with custom text using the ampersand (&) to generate readable outputs like "5 Years, 10 Months," and adapted the formula for Indonesian regional settings by replacing commas with semicolons to ensure error-free execution.
 
+### 5/11/2026:
+Today i have learned about how to use VLOOKUP, HLOOKUP, and XLOOKUP. I can easily learn VLOOKUP and HLOOKUP. But took me more time while understanding XLOOKUP. In the end, i can use them all to solve business problem.
