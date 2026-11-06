@@ -76,3 +76,6 @@ I've have mastered the Excel DATEDIF function to calculate precise durations. Th
 
 ### 5/11/2026:
 Today i have learned about how to use VLOOKUP, HLOOKUP, and XLOOKUP. I can easily learn VLOOKUP and HLOOKUP. But took me more time while understanding XLOOKUP. In the end, i can use them all to solve business problem.
+
+### 6/11/2026:
+Today, you mastered the Excel REPLACE function to efficiently modify strings for data standardization and privacy. You learned its core syntax—requiring the old text, starting position, character count, and replacement text—to execute targeted updates. This enables scalable automation for critical tasks like updating transaction years, masking sensitive phone numbers, and modifying department codes without manual data entry.
