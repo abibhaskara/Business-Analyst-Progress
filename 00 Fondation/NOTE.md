@@ -79,3 +79,7 @@ Today i have learned about how to use VLOOKUP, HLOOKUP, and XLOOKUP. I can easil
 
 ### 6/11/2026:
 Today, you mastered the Excel REPLACE function to efficiently modify strings for data standardization and privacy. You learned its core syntax—requiring the old text, starting position, character count, and replacement text—to execute targeted updates. This enables scalable automation for critical tasks like updating transaction years, masking sensitive phone numbers, and modifying department codes without manual data entry.
+
+### 7/11/2026:
+Today i learn how to use basic formula such as MIN, MAX, SUM, and COUNT. I also learn how to use pivot table to summarize and analyze data. It was basic but very useful for me. 
+
