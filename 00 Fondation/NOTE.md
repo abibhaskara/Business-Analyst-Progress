@@ -83,3 +83,6 @@ Today, you mastered the Excel REPLACE function to efficiently modify strings for
 ### 7/11/2026:
 Today i learn how to use basic formula such as MIN, MAX, SUM, and COUNT. I also learn how to use pivot table to summarize and analyze data. It was basic but very useful for me. 
 
+### 13/11/2026
+I've been busy the entire week, i needed to finish a project for a competition. So in the afternoon i learnt how to use =SUBSTITUTE function, literally just replacing text with another, pretty interesting, i love the logic. I ended up finish all the case project easily. I improved so much compare than before.
+
